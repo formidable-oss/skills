@@ -1,0 +1,5 @@
+interface:
+  display_name: "Formidable Skill"
+  short_description: "Principles for formidable skills"
+policy:
+  allow_implicit_invocation: false
